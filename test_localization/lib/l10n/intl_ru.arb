@@ -1,0 +1,6 @@
+{
+  "flutter_demo_home_page": "Flutter Демо Начальная страница",
+  "hello": "Привет",
+  "counter": "Вы нажали на кнопку {counter}",
+  "pressBunttonT": "Вы нажали на кнопку {counter}"
+}
